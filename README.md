@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
-<h3 align="center">A passionate Dev/Ops/Analist from Uruguay</h3>
+<h3 align="center">A passionate Jr Dev/Ops/Data Analyst from Uruguay</h3>
 
 - 🌱 I’m currently learning 
 
